@@ -1,0 +1,34 @@
+h1 {
+    color: palevioletred;
+}
+
+nav {
+    color: lightblue;
+}
+
+h3 {
+    color: lightsalmon;
+}
+
+body {
+    text-align: center;
+    list-style-position: inside;
+    font-family: "Montserrat" , sans-serif;
+}
+
+#homepage-product-list {
+    color: lightseagreen;
+
+}
+
+#vizyon-misyon {
+    color: lightgreen;
+}
+
+#sola-hiza {
+    text-align: left;
+}
+
+.ortala {
+    margin: auto;
+}
